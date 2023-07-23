@@ -1,0 +1,29 @@
+-------------------------------------------
+Batch: 0
+-------------------------------------------
++--------------------+-----+
+|            customer|score|
++--------------------+-----+
+|Travis.Huey@test.com| 12.5|
+| Sean.Jones@test.com|  0.0|
+|Eric.Aristotle@te...| -0.5|
+|Santosh.Harris@te...|-32.5|
+|Jane.Jackson@test...| -3.5|
+|  Eric.Huey@test.com| -1.5|
+|Trevor.Staples@te...| -3.5|
+|    Sean.Wu@test.com| -3.5|
+|Trevor.Aristotle@...| -5.5|
+|Bobby.Ahmed@test.com| -2.0|
+|Larry.Olson@test.com| -0.5|
+|Neeraj.Jones@test...| -4.5|
+|Christina.Howard@...| -1.5|
+|Sean.Staples@test...| -4.5|
+|   Jason.Wu@test.com| -1.5|
+|Jason.Davis@test.com| -3.0|
+|Ben.Staples@test.com|  0.0|
+|Senthil.Clayton@t...|-13.5|
+|David.Phillips@te...| 40.5|
+|  Dan.Jones@test.com|  0.5|
++--------------------+-----+
+only showing top 20 rows
+
